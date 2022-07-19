@@ -5,3 +5,4 @@ outputs
 scratch/helloWorld.py
 temp
 mlflow.db
+models/__pycache__
